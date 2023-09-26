@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Disco de estado solido",
+        "description": "Dispositivo de almacenamiento, no volátil, fabricado exclusivamente con componentes electrónicos",
+        "price": 1500,
+        "category": "Electronica",
+        "image": "ssd.jpg",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "name": "Cable HDMI",
+        "description": "HDMI sirve para unificar los estándares de reproducción de vídeo y audio",
+        "price": 1000,
+        "category": "Hogar",
+        "image": "hdmi.jpg",
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "name": "Transformador 110v, 120v",
+        "description": "Transformador de Voltaje de 850 vatios, 110 / 120V a 220 / 240V Paso Arriba Convertidor de Voltaje descendente",
+        "price": 44982,
+        "category": "Hogar",
+        "image": "transformador.jpg",
+        "stock": 7
+    },
+    {
+        "id": 4,
+        "name": "Soldador 150w",
+        "description": "Unir piezas de metal o termoplástico aplicando calor intenso.",
+        "price": 8942,
+        "category": "Electronica",
+        "image": "soldador.jpg",
+        "stock": 4
+    },
+    {
+        "id": 5,
+        "name": "Placa central electronica dupla",
+        "description": "Permitirá la grabacion de hasta 160 controles remotos, y la posibilidad de adicionarle accesorios",
+        "price": 32593,
+        "category": "Electronica",
+        "image": "placa.jpg",
+        "stock": 15
+    },
+    {
+        "id": 6,
+        "name": "Limpiador de contactos electricos lc-3",
+        "description": "Efectiva acción desengrasante, de rápida evaporación y de acción solvente selectiva",
+        "price": 1699,
+        "category": "Hogar",
+        "image": "limpiador.jpg",
+        "stock": 20
+    }
+]
